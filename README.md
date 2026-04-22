@@ -16,7 +16,7 @@ This is purely for learning purposes.
 |603|1|Red|C965799|
 |603|1|Polyfuse|C18203128|
 |805|1|Ferrite Bead|C85840|
-|USB-C-16Pin|1||C2927038|
+|USB-C-16Pin|1| |C2927038|
 |603|4|5.1k|C23186|
 |603|1|100|C22775|
 |TPS22918|1|TPS22918|C131941|
