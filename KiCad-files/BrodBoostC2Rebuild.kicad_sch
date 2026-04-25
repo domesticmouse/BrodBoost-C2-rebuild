@@ -5850,7 +5850,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 58.42 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6259,7 +6259,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 148.59 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6600,7 +6600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 134.62 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7079,7 +7079,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 240.03 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7160,7 +7160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 191.77 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7335,7 +7335,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "Ferrite"
 			(at 112.9792 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7817,7 +7817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 163.83 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7898,7 +7898,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "Fuse"
 			(at 101.6 24.13 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7990,7 +7990,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 58.42 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9893,7 +9893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 205.74 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10239,7 +10239,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 176.53 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11202,7 +11202,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5k1Ω"
 			(at 177.8 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
