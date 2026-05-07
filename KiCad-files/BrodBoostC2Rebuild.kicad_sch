@@ -6259,7 +6259,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "2.2kΩ"
 			(at 148.59 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6600,7 +6600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "1kΩ"
 			(at 134.62 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7160,7 +7160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "2.2kΩ"
 			(at 191.77 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7817,7 +7817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "2.2kΩ"
 			(at 163.83 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9893,7 +9893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "2.2kΩ"
 			(at 205.74 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11202,7 +11202,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k1Ω"
+		(property "Value" "2.2kΩ"
 			(at 177.8 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
